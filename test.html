@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Scholar Test</title>
+</head>
+
+<body>
+    <main class="main-wrapper">
+        <div class="page-content h-100">
+            <div class="gcl-circles-con">
+                <div class="section-title text-center mt-4 mb-1">
+                    <h3 class="text-uppercase">Test Library</h3>
+                </div>
+                <div class="section-results px-4 mt-4 mb-1">
+                    <!-- <div id="preloader"></div> -->
+                    <div id="test"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        
+        // let div = document.createElement('div')
+        // div.textContent = 'Hello Worlds'
+        // test.appendChild(div)
+
+
+        // import all JSON from citation.json file 
+        fetch('citation3.json')
+          .then(function(response) {
+            return response.json()
+          })
+          .then(function(data) {
+            appendData(data)
+          })
+          .catch(function(err) {
+            console.log(err)
+          });
+
+        function appendData(data) {
+            let bibitems = data.bibliography.bibitem
+            console.log(bibitems)
+
+            // confirm all titles exist 
+            bibitems.forEach(bibitem => {
+                let title = bibitem.title
+                // console.log(title);
+
+                // getPaperIds(title)
+                
+            });
+            // store/apppend all IDs
+            //run those through paperID query
+            // sort by pubdate recency 
+
+
+
+            // select test div and add content
+            let test = document.getElementById('test') // store element with id=test in results var
+
+        }
+
+        // const getPaperIds = async(paperTitle) => {
+        //     // get data based on paperTitle
+        //     const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/search?query=${paperTitle}`, {
+        //         method: "GET",
+        //         headers: {
+        //         "Content-Type": "application/json"
+        //         },
+        //     })
+        //     // store paper data
+        //     const data = await response.json()
+        //     // console.log(data.data);
+        //     console.log('paperTitle: ' + paperTitle, 'PaperId: ' + data.data[0].paperId);
+
+        //     passPaperInfo = data.data[0]
+
+        //     getPaperInfo(passPaperInfo)
+        // }
+        // const getPaperInfo = async(paperInfo) => {
+        //     console.log('paperInfo: ' + paperInfo.paperId);
+        //     let paperId = paperInfo;
+        //     console.log(paperId.paperId);
+        //     // get data based on paperId
+        //     const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/${paperId}?fields=url,title,year,tldr,publicationDate,journal,externalIds,abstract`, {
+        //         method: "GET",
+        //         headers: {
+        //         "Content-Type": "application/json",
+        //         "Access-Control-Allow-Origin": "http://127.0.0.1:5500/"
+        //         },
+        //     })
+        //     // store paper data
+        //     const data = await response.json()
+        //     console.log(data);
+        // }
+        // // getPaperInfo('9b8e06f870d5077c977d4a2166dad4c5f8c0391d')
+        // getPaperIds('Senescent cells: a therapeutic target for cardiovascular disease') 
+
+
+    </script>
+</body>
+
+</html>

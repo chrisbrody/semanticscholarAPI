@@ -1,0 +1,1302 @@
+{
+    "bibliography": {
+      "bibitem": [
+        {
+          "journal": "Cell reports",
+          "volume": "38 9",
+          "pages": 110444,
+          "label": "YamamotoImoto2022AgeassociatedDO",
+          "title": "Age-associated decline of MondoA drives cellular senescence through impaired autophagy and mitochondrial homeostasis.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Yamamoto-Imoto",
+                "lastname": "Hitomi"
+              },
+              {
+                "firstname": "Minami",
+                "lastname": "Satoshi"
+              },
+              {
+                "firstname": "Shioda",
+                "lastname": "Tatsuya"
+              },
+              {
+                "firstname": "Yamashita",
+                "lastname": "Yurina"
+              },
+              {
+                "firstname": "Sakai",
+                "lastname": "Shinsuke"
+              },
+              {
+                "firstname": "Maeda",
+                "lastname": "Shihomi"
+              },
+              {
+                "firstname": "Yamamoto",
+                "lastname": "Takeshi"
+              },
+              {
+                "firstname": "Oki",
+                "lastname": "Shinya"
+              },
+              {
+                "firstname": "Takashima",
+                "lastname": "Mizuki"
+              },
+              {
+                "firstname": "Yamamuro",
+                "lastname": "Tadashi"
+              },
+              {
+                "firstname": "Yanagawa",
+                "lastname": "Kyosuke"
+              },
+              {
+                "firstname": "Edahiro",
+                "lastname": "Ryuya"
+              },
+              {
+                "firstname": "Iwatani",
+                "lastname": "Miki"
+              },
+              {
+                "firstname": "So",
+                "lastname": "Mizue"
+              },
+              {
+                "firstname": "Tokumura",
+                "lastname": "Ayaka"
+              },
+              {
+                "firstname": "Abe",
+                "lastname": "Toyofumi"
+              },
+              {
+                "firstname": "Imamura",
+                "lastname": "Ryoichi"
+              },
+              {
+                "firstname": "Nonomura",
+                "lastname": "Norio"
+              },
+              {
+                "firstname": "Okada",
+                "lastname": "Yukinori"
+              },
+              {
+                "firstname": "Ayer",
+                "lastname": "Donald E."
+              },
+              {
+                "firstname": "Ogawa",
+                "lastname": "Hidesato"
+              },
+              {
+                "firstname": "Hara",
+                "lastname": "Eiji"
+              },
+              {
+                "firstname": "Takabatake",
+                "lastname": "Yoshitsugu"
+              },
+              {
+                "firstname": "Isaka",
+                "lastname": "Yoshitaka"
+              },
+              {
+                "firstname": "Nakamura",
+                "lastname": "Shuhei"
+              },
+              {
+                "firstname": "Yoshimori",
+                "lastname": "Tamotsu"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Current Opinion in Nephrology and Hypertension",
+          "volume": 31,
+          "pages": "235 - 243",
+          "label": "Tan2022AgeingCS",
+          "title": "Ageing, cellular senescence and chronic kidney disease: experimental evidence",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Tan",
+                "lastname": "Huishi"
+              },
+              {
+                "firstname": "Xu",
+                "lastname": "Jie"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Youhua"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Journal of Clinical Investigation",
+          "volume": 128,
+          "pages": "1217-1228",
+          "label": "Childs2018SenescentCA",
+          "title": "Senescent cells: a therapeutic target for cardiovascular disease",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Childs",
+                "lastname": "Bennett G."
+              },
+              {
+                "firstname": "Li",
+                "lastname": "Hu"
+              },
+              {
+                "firstname": "Deursen",
+                "lastname": "Jan M."
+              }
+            ]
+          },
+          "year": 2018
+        },
+        {
+          "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+          "label": "Han2022PotentialRO",
+          "title": "Potential regulators of the senescence-associated secretory phenotype during senescence and ageing.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Han",
+                "lastname": "Xiaojuan"
+              },
+              {
+                "firstname": "Lei",
+                "lastname": "Qing"
+              },
+              {
+                "firstname": "Xie",
+                "lastname": "Jiamei"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Huanhuan"
+              },
+              {
+                "firstname": "Sun",
+                "lastname": "Haoran"
+              },
+              {
+                "firstname": "Jing",
+                "lastname": "Li"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Xiaohua"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Tianying"
+              },
+              {
+                "firstname": "Gou",
+                "lastname": "Xingchun"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Journal of Internal Medicine",
+          "volume": 288,
+          "pages": "518 - 536",
+          "label": "Kirkland2020SenolyticDF",
+          "title": "Senolytic drugs: from discovery to translation",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Kirkland",
+                "lastname": "James L."
+              },
+              {
+                "firstname": "Tchkonia",
+                "lastname": "Tamara"
+              }
+            ]
+          },
+          "year": 2020
+        },
+        {
+          "journal": "Frontiers in Cell and Developmental Biology",
+          "volume": 10,
+          "label": "Hu2022WhySC",
+          "title": "Why Senescent Cells Are Resistant to Apoptosis: An Insight for Senolytic Development",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Hu",
+                "lastname": "L. J."
+              },
+              {
+                "firstname": "Li",
+                "lastname": "Huiqin"
+              },
+              {
+                "firstname": "Zi",
+                "lastname": "Meiting"
+              },
+              {
+                "firstname": "Li",
+                "lastname": "Wen"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Jing"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Yang"
+              },
+              {
+                "firstname": "Zhou",
+                "lastname": "Daohong"
+              },
+              {
+                "firstname": "Kong",
+                "lastname": "Qing-Peng"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Yunxia"
+              },
+              {
+                "firstname": "He",
+                "lastname": "Yonghan"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Cell metabolism",
+          "volume": "23 6",
+          "pages": "965-966",
+          "label": "Schultz2016WhyND",
+          "title": "Why NAD(+) Declines during Aging: It's Destroyed.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Schultz",
+                "lastname": "Michael B."
+              },
+              {
+                "firstname": "Sinclair",
+                "lastname": "David A."
+              }
+            ]
+          },
+          "year": 2016
+        },
+        {
+          "journal": "Brain, Behavior, and Immunity",
+          "volume": 104,
+          "pages": "97-109",
+          "label": "Polsky2022StressinducedBA",
+          "title": "Stress-induced biological aging: A review and guide for research priorities",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Polsky",
+                "lastname": "Lilian R."
+              },
+              {
+                "firstname": "Rentscher",
+                "lastname": "Kelly E."
+              },
+              {
+                "firstname": "Carroll",
+                "lastname": "Judith E."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Cell metabolism",
+          "label": "Wiley2021OxylipinBR",
+          "title": "Oxylipin biosynthesis reinforces cellular senescence and allows detection of senolysis.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Wiley",
+                "lastname": "Christopher D"
+              },
+              {
+                "firstname": "Sharma",
+                "lastname": "Rishi"
+              },
+              {
+                "firstname": "Davis",
+                "lastname": "Sonnet S."
+              },
+              {
+                "firstname": "López-Domínguez",
+                "lastname": "José Alberto"
+              },
+              {
+                "firstname": "Mitchell",
+                "lastname": "Kylie P."
+              },
+              {
+                "firstname": "Wiley",
+                "lastname": "Samantha"
+              },
+              {
+                "firstname": "Alimirah",
+                "lastname": "Fatouma"
+              },
+              {
+                "firstname": "Kim",
+                "lastname": "Dong Eun"
+              },
+              {
+                "firstname": "Payne",
+                "lastname": "Therese"
+              },
+              {
+                "firstname": "Rosko",
+                "lastname": "Andrew"
+              },
+              {
+                "firstname": "Aimontche",
+                "lastname": "Eliezer"
+              },
+              {
+                "firstname": "Deshpande",
+                "lastname": "Sharvari"
+              },
+              {
+                "firstname": "Neri",
+                "lastname": "Francesco"
+              },
+              {
+                "firstname": "Kuehnemann",
+                "lastname": "Chisaka"
+              },
+              {
+                "firstname": "Demaria",
+                "lastname": "Marco"
+              },
+              {
+                "firstname": "Ramanathan",
+                "lastname": "Arvind"
+              },
+              {
+                "firstname": "Campisi",
+                "lastname": "Judith"
+              }
+            ]
+          },
+          "year": 2021
+        },
+        {
+          "journal": "Cell Cycle",
+          "volume": 12,
+          "pages": "1922 - 1927",
+          "label": "Hildebrand2013FucosidaseAA",
+          "title": "α-Fucosidase as a novel convenient biomarker for cellular senescence",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Hildebrand",
+                "lastname": "Dominic G."
+              },
+              {
+                "firstname": "Lehle",
+                "lastname": "Simon"
+              },
+              {
+                "firstname": "Borst",
+                "lastname": "Andreas"
+              },
+              {
+                "firstname": "Haferkamp",
+                "lastname": "Sebastian"
+              },
+              {
+                "firstname": "Essmann",
+                "lastname": "Frank"
+              },
+              {
+                "firstname": "Schulze-Osthoff",
+                "lastname": "Klaus"
+              }
+            ]
+          },
+          "year": 2013
+        },
+        {
+          "journal": "Burns &amp; Trauma",
+          "volume": 10,
+          "label": "Wei2022SenescenceIC",
+          "title": "Senescence in chronic wounds and potential targeted therapies",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Wei",
+                "lastname": "Xuerong"
+              },
+              {
+                "firstname": "Li",
+                "lastname": "Minxiong"
+              },
+              {
+                "firstname": "Zheng",
+                "lastname": "Zijun"
+              },
+              {
+                "firstname": "Ma",
+                "lastname": "Jun"
+              },
+              {
+                "firstname": "Gao",
+                "lastname": "Yanbin"
+              },
+              {
+                "firstname": "Chen",
+                "lastname": "Lianglong"
+              },
+              {
+                "firstname": "Peng",
+                "lastname": "Yujie"
+              },
+              {
+                "firstname": "Yu",
+                "lastname": "Shengxiang"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Lei"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "International Journal of Molecular Sciences",
+          "volume": 23,
+          "label": "Kudlova2022CellularSM",
+          "title": "Cellular Senescence: Molecular Targets, Biomarkers, and Senolytic Drugs",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Kudlova",
+                "lastname": "Natalie"
+              },
+              {
+                "firstname": "Sanctis",
+                "lastname": "Juan Bautista"
+              },
+              {
+                "firstname": "Hajdúch",
+                "lastname": "Marián"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "International Journal of Molecular Sciences",
+          "volume": 23,
+          "label": "Fan2022FlavonoidsNaturalGT",
+          "title": "Flavonoids—Natural Gifts to Promote Health and Longevity",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Fan",
+                "lastname": "Xiaolan"
+              },
+              {
+                "firstname": "Fan",
+                "lastname": "Ziqiang"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Ziyue"
+              },
+              {
+                "firstname": "Huang",
+                "lastname": "Tiantian"
+              },
+              {
+                "firstname": "Tong",
+                "lastname": "Ying Juan"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Deying"
+              },
+              {
+                "firstname": "Mao",
+                "lastname": "Xueping"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Mingyao"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Arthritis Research &amp; Therapy",
+          "volume": 24,
+          "label": "Wu2022SenescentSC",
+          "title": "Senescent skeletal cells cross-talk with synovial cells plays a key role in the pathogenesis of osteoarthritis",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Wu",
+                "lastname": "Chong-Jie"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Ri"
+              },
+              {
+                "firstname": "Song-Huan"
+              },
+              {
+                "firstname": "Tang",
+                "lastname": "Wang"
+              },
+              {
+                "firstname": "Zeng",
+                "lastname": "Yuzhe"
+              },
+              {
+                "firstname": "Jun-Zhang"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Jie"
+              },
+              {
+                "firstname": "Zhen-Li"
+              },
+              {
+                "firstname": "Zhou",
+                "lastname": "Ying"
+              },
+              {
+                "firstname": "Zha",
+                "lastname": "Zhengang"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Huan-Tian"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Ning"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Cells",
+          "volume": 11,
+          "label": "Chen2022SynergisticAT",
+          "title": "Synergistic Anti-Ageing through Senescent Cells Specific Reprogramming",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Chen",
+                "lastname": "R."
+              },
+              {
+                "firstname": "Skutella",
+                "lastname": "Thomas"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "International Journal of Molecular Sciences",
+          "volume": 23,
+          "label": "Lee2022EndoplasmicR",
+          "title": "Endoplasmic Reticulum (ER) Stress and Its Role in Pancreatic β-Cell Dysfunction and Senescence in Type 2 Diabetes",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Lee",
+                "lastname": "Ji-Hye"
+              },
+              {
+                "firstname": "Lee",
+                "lastname": "Jaemin"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Discoveries",
+          "volume": 3,
+          "label": "Stancu2015AMPKAC",
+          "title": "AMPK activation can delay aging",
+          "authors": {
+            "author": {
+              "firstname": "Stancu",
+              "lastname": "Andreea L"
+            }
+          },
+          "year": 2015
+        },
+        {
+          "journal": "Current opinion in pharmacology",
+          "volume": 64,
+          "pages": 102213,
+          "label": "AstrikeDavis2022TargetingCS",
+          "title": "Targeting cellular senescence as a novel treatment for osteoarthritis.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Astrike-Davis",
+                "lastname": "Emma"
+              },
+              {
+                "firstname": "Coryell",
+                "lastname": "Philip R"
+              },
+              {
+                "firstname": "Loeser",
+                "lastname": "Richard F."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Frontiers in Cardiovascular Medicine",
+          "volume": 9,
+          "label": "Zha2022SenescenceIV",
+          "title": "Senescence in Vascular Smooth Muscle Cells and Atherosclerosis",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Zha",
+                "lastname": "Yiwen"
+              },
+              {
+                "firstname": "Zhuang",
+                "lastname": "Wenwen"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Yongqi"
+              },
+              {
+                "firstname": "Zhou",
+                "lastname": "Yue"
+              },
+              {
+                "firstname": "Li",
+                "lastname": "Hongliang"
+              },
+              {
+                "firstname": "Liang",
+                "lastname": "Jingyan"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Aging (Albany NY)",
+          "volume": 14,
+          "pages": "4281 - 4304",
+          "label": "NacarinoPalma2021ArylHR",
+          "title": "Aryl hydrocarbon receptor blocks aging-induced senescence in the liver and fibroblast cells",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Nacarino-Palma",
+                "lastname": "Ana"
+              },
+              {
+                "firstname": "Rico-Leo",
+                "lastname": "Eva María"
+              },
+              {
+                "firstname": "Campisi",
+                "lastname": "Judith"
+              },
+              {
+                "firstname": "Ramanathan",
+                "lastname": "Arvind"
+              },
+              {
+                "firstname": "González-Rico",
+                "lastname": "Francisco J."
+              },
+              {
+                "firstname": "Rejano-Gordillo",
+                "lastname": "Claudia M."
+              },
+              {
+                "firstname": "Ordiales-Talavero",
+                "lastname": "Ana"
+              },
+              {
+                "firstname": "Merino",
+                "lastname": "Jaime M."
+              },
+              {
+                "firstname": "Fernández-Salguero",
+                "lastname": "Pedro M."
+              }
+            ]
+          },
+          "year": 2021
+        },
+        {
+          "journal": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
+          "pages": 103162,
+          "label": "Mehdipour2021AttenuationOA",
+          "title": "Attenuation of age-elevated blood factors by repositioning plasmapheresis: A novel perspective and approach.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Mehdipour",
+                "lastname": "Melod"
+              },
+              {
+                "firstname": "Etienne",
+                "lastname": "Jessy"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Chao"
+              },
+              {
+                "firstname": "Mehdipour",
+                "lastname": "Taha"
+              },
+              {
+                "firstname": "Kato",
+                "lastname": "Cameron"
+              },
+              {
+                "firstname": "Conboy",
+                "lastname": "Michael J."
+              },
+              {
+                "firstname": "Conboy",
+                "lastname": "Irina M."
+              },
+              {
+                "firstname": "Kiprov",
+                "lastname": "Dobri D."
+              }
+            ]
+          },
+          "year": 2021
+        },
+        {
+          "journal": "EBioMedicine",
+          "volume": 40,
+          "pages": "554 - 563",
+          "label": "Justice2019SenolyticsII",
+          "title": "Senolytics in idiopathic pulmonary fibrosis: Results from a first-in-human, open-label, pilot study",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Justice",
+                "lastname": "Jamie N."
+              },
+              {
+                "firstname": "Nambiar",
+                "lastname": "Anoop M."
+              },
+              {
+                "firstname": "Tchkonia",
+                "lastname": "Tamara"
+              },
+              {
+                "firstname": "LeBrasseur",
+                "lastname": "Nathan K."
+              },
+              {
+                "firstname": "Pascual",
+                "lastname": "Rodolfo M."
+              },
+              {
+                "firstname": "Hashmi",
+                "lastname": "Shahrukh K."
+              },
+              {
+                "firstname": "Prata",
+                "lastname": "Larissa G. P. Langhi"
+              },
+              {
+                "firstname": "Masternak",
+                "lastname": "Michal M."
+              },
+              {
+                "firstname": "Kritchevsky",
+                "lastname": "Stephen B."
+              },
+              {
+                "firstname": "Musi",
+                "lastname": "Nicolas"
+              },
+              {
+                "firstname": "Kirkland",
+                "lastname": "James L."
+              }
+            ]
+          },
+          "year": 2019
+        },
+        {
+          "journal": "Frontiers in Physiology",
+          "volume": 13,
+          "label": "Hamsanathan2022LipidsAR",
+          "title": "Lipids as Regulators of Cellular Senescence",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Hamsanathan",
+                "lastname": "Shruthi"
+              },
+              {
+                "firstname": "Gurkar",
+                "lastname": "Aditi U."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "International Journal of Molecular Sciences",
+          "volume": 23,
+          "label": "Liu2022AgingCS",
+          "title": "Aging, Cellular Senescence, and Alzheimer’s Disease",
+          "authors": {
+            "author": {
+              "firstname": "Rui-Liu"
+            }
+          },
+          "year": 2022
+        },
+        {
+          "journal": "EBioMedicine",
+          "volume": 56,
+          "label": "EllisonHughes2020FirstET",
+          "title": "First evidence that senolytics are effective at decreasing senescent cells in humans",
+          "authors": {
+            "author": {
+              "firstname": "Ellison‐Hughes",
+              "lastname": "Georgina M."
+            }
+          },
+          "year": 2020
+        },
+        {
+          "journal": "Journal of Clinical Tuberculosis and Other Mycobacterial Diseases",
+          "volume": 26,
+          "label": "Fifor2022SexAS",
+          "title": "Sex, ancestry, senescence, and aging (SAnSA) are stark drivers of nontuberculous mycobacterial pulmonary disease",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Fifor",
+                "lastname": "Adrian"
+              },
+              {
+                "firstname": "Krukowski",
+                "lastname": "Karen"
+              },
+              {
+                "firstname": "Honda",
+                "lastname": "Jennifer R."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Nucleic Acids Research",
+          "volume": 35,
+          "pages": "7417 - 7428",
+          "label": "Chen2007DNADC",
+          "title": "DNA damage, cellular senescence and organismal ageing: causal or correlative?",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Jian-Chen"
+              },
+              {
+                "firstname": "Hales",
+                "lastname": "Chadwick"
+              },
+              {
+                "firstname": "Ozanne",
+                "lastname": "Susan E."
+              }
+            ]
+          },
+          "year": 2007
+        },
+        {
+          "journal": "Nature Reviews Endocrinology",
+          "volume": 18,
+          "pages": "243 - 258",
+          "label": "Amorim2022MitochondrialAM",
+          "title": "Mitochondrial and metabolic dysfunction in ageing and age-related diseases",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Amorim",
+                "lastname": "João A."
+              },
+              {
+                "firstname": "Coppotelli",
+                "lastname": "Giuseppe"
+              },
+              {
+                "firstname": "Rolo",
+                "lastname": "Anabela P."
+              },
+              {
+                "firstname": "Palmeira",
+                "lastname": "Carlos M."
+              },
+              {
+                "firstname": "Ross",
+                "lastname": "Jaime M."
+              },
+              {
+                "firstname": "Sinclair",
+                "lastname": "David A."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Mechanisms of Ageing and Development",
+          "volume": 126,
+          "pages": "913-922",
+          "label": "Masoro2005OverviewOC",
+          "title": "Overview of caloric restriction and ageing",
+          "authors": {
+            "author": {
+              "firstname": "Masoro",
+              "lastname": "Edward J."
+            }
+          },
+          "year": 2005
+        },
+        {
+          "journal": "International Journal of Molecular Sciences",
+          "volume": 23,
+          "label": "Engelmann2022ThePR",
+          "title": "The Potential Role of Cellular Senescence in Non-Alcoholic Fatty Liver Disease",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Engelmann",
+                "lastname": "Cornelius"
+              },
+              {
+                "firstname": "Tacke",
+                "lastname": "Frank"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Frontiers in Aging",
+          "volume": 3,
+          "label": "Inci2022TranslationOC",
+          "title": "Translation of Cellular Senescence to Novel Therapeutics: Insights From Alternative Tools and Models",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Inci",
+                "lastname": "Nurcan"
+              },
+              {
+                "firstname": "Kamali",
+                "lastname": "Dilanur"
+              },
+              {
+                "firstname": "Akyildiz",
+                "lastname": "Erdogan Oguzhan"
+              },
+              {
+                "firstname": "Turanli",
+                "lastname": "Eda Tahir"
+              },
+              {
+                "firstname": "Bozaykut",
+                "lastname": "Perinur"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Biochemical and biophysical research communications",
+          "volume": "617 Pt 1",
+          "pages": "30-35",
+          "label": "Cook2022BAY1I",
+          "title": "BAY 11-7082 inhibits the secretion of interleukin-6 by senescent human microglia.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Cook",
+                "lastname": "Maxwell"
+              },
+              {
+                "firstname": "Lin",
+                "lastname": "Houmin"
+              },
+              {
+                "firstname": "Mishra",
+                "lastname": "Sandeep Kumar"
+              },
+              {
+                "firstname": "Wang",
+                "lastname": "Gavin Y."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Antioxidants",
+          "volume": 11,
+          "label": "PedrozaDaz2022ModulationOO",
+          "title": "Modulation of Oxidative Stress-Induced Senescence during Non-Alcoholic Fatty Liver Disease",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Pedroza-Díaz",
+                "lastname": "Johanna"
+              },
+              {
+                "firstname": "Arroyave-Ospina",
+                "lastname": "Johanna C"
+              },
+              {
+                "firstname": "Salas",
+                "lastname": "Sandra Serna"
+              },
+              {
+                "firstname": "Moshage",
+                "lastname": "Han"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Cell &amp; Bioscience",
+          "volume": 12,
+          "label": "Sun2022TheMR",
+          "title": "The multifaceted role of the SASP in atherosclerosis: from mechanisms to therapeutic opportunities",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Sun",
+                "lastname": "Yu"
+              },
+              {
+                "firstname": "Wang",
+                "lastname": "Xia"
+              },
+              {
+                "firstname": "Liu",
+                "lastname": "Tianwei"
+              },
+              {
+                "firstname": "Zhu",
+                "lastname": "Xiaoyan"
+              },
+              {
+                "firstname": "Pan",
+                "lastname": "Xudong"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "The Journal of Prevention of Alzheimer's Disease",
+          "volume": 9,
+          "pages": "523 - 531",
+          "label": "Behfar2022AgingSA",
+          "title": "Aging, Senescence, and Dementia",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Behfar",
+                "lastname": "Qumars"
+              },
+              {
+                "firstname": "Zuniga",
+                "lastname": "A. Ramirez"
+              },
+              {
+                "firstname": "Martino-Adami",
+                "lastname": "Pamela V."
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "The FEBS journal",
+          "label": "Nehme2021HighDP",
+          "title": "High dietary protein and fat contents exacerbate hepatic senescence and SASP in mice.",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Nehme",
+                "lastname": "Jamil"
+              },
+              {
+                "firstname": "Yang",
+                "lastname": "Dengbao"
+              },
+              {
+                "firstname": "Altulea",
+                "lastname": "Abdullah"
+              },
+              {
+                "firstname": "Varela-Eirín",
+                "lastname": "Marta"
+              },
+              {
+                "firstname": "Wang",
+                "lastname": "Lu"
+              },
+              {
+                "firstname": "Hu",
+                "lastname": "Sumei"
+              },
+              {
+                "firstname": "Wu",
+                "lastname": "Yingga"
+              },
+              {
+                "firstname": "Togo",
+                "lastname": "Jacques"
+              },
+              {
+                "firstname": "Niu",
+                "lastname": "Chaoqun"
+              },
+              {
+                "firstname": "Speakman",
+                "lastname": "John R."
+              },
+              {
+                "firstname": "Demaria",
+                "lastname": "Marco"
+              }
+            ]
+          },
+          "year": 2021
+        },
+        {
+          "journal": "Cells",
+          "volume": 11,
+          "label": "Crouch2022EpigeneticRO",
+          "title": "Epigenetic Regulation of Cellular Senescence",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Crouch",
+                "lastname": "Jack D."
+              },
+              {
+                "firstname": "Shvedova",
+                "lastname": "Maria"
+              },
+              {
+                "firstname": "Thanapaul",
+                "lastname": "Rex Jeya Rajkumar Samdavid"
+              },
+              {
+                "firstname": "Botchkarev",
+                "lastname": "Vladimir V."
+              },
+              {
+                "firstname": "Roh",
+                "lastname": "Daniel S"
+              }
+            ]
+          },
+          "year": 2022
+        },
+        {
+          "journal": "Stem Cell Reviews and Reports",
+          "pages": "1 - 13",
+          "label": "Gao2022TelomeresAM",
+          "title": "Telomeres and Mitochondrial Metabolism: Implications for Cellular Senescence and Age-related Diseases",
+          "authors": {
+            "author": [
+              {
+                "firstname": "Gao",
+                "lastname": "Xingyu"
+              },
+              {
+                "firstname": "Yu",
+                "lastname": "Xiao"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Chang"
+              },
+              {
+                "firstname": "Wang",
+                "lastname": "Yiming"
+              },
+              {
+                "firstname": "Sun",
+                "lastname": "Yanan"
+              },
+              {
+                "firstname": "Sun",
+                "lastname": "Huiyan"
+              },
+              {
+                "firstname": "Zhang",
+                "lastname": "Haiying"
+              },
+              {
+                "firstname": "Ying-Shi"
+              },
+              {
+                "firstname": "He",
+                "lastname": "Xu"
+              }
+            ]
+          },
+          "year": 2022
+        }
+      ]
+    }
+  }
