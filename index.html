@@ -51,7 +51,7 @@
                 let title = bibitem.title
                 console.log(title);
 
-                // getPaperIds(title)
+                getPaperIds(title)
                 
             });
             // store/apppend all IDs
@@ -61,44 +61,44 @@
 
 
             // select test div and add content
-            let test = document.getElementById('test') // store element with id=test in results var
+            // let test = document.getElementById('test') // store element with id=test in results var
 
         }
 
-        // const getPaperIds = async(paperTitle) => {
-        //     // get data based on paperTitle
-        //     const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/search?query=${paperTitle}`, {
-        //         method: "GET",
-        //         headers: {
-        //         "Content-Type": "application/json"
-        //         },
-        //     })
-        //     // store paper data
-        //     const data = await response.json()
-        //     // console.log(data.data);
-        //     console.log('paperTitle: ' + paperTitle, 'PaperId: ' + data.data[0].paperId);
+        const getPaperIds = async(paperTitle) => {
+            // get data based on paperTitle
+            const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/search?query=${paperTitle}`, {
+                method: "GET",
+                headers: {
+                "Content-Type": "application/json"
+                },
+            })
+            // store paper data
+            const data = await response.json()
+            // console.log(data.data);
+            console.log('paperTitle: ' + paperTitle, 'PaperId: ' + data.data[0].paperId);
 
-        //     passPaperInfo = data.data[0]
+            passPaperInfo = data.data[0]
 
-        //     getPaperInfo(passPaperInfo)
-        // }
-        // const getPaperInfo = async(paperInfo) => {
-        //     console.log('paperInfo: ' + paperInfo.paperId);
-        //     let paperId = paperInfo;
-        //     console.log(paperId.paperId);
-        //     // get data based on paperId
-        //     const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/${paperId}?fields=url,title,year,tldr,publicationDate,journal,externalIds,abstract`, {
-        //         method: "GET",
-        //         headers: {
-        //         "Content-Type": "application/json",
-        //         "Access-Control-Allow-Origin": "http://127.0.0.1:5500/"
-        //         },
-        //     })
-        //     // store paper data
-        //     const data = await response.json()
-        //     console.log(data);
-        // }
-        // // getPaperInfo('9b8e06f870d5077c977d4a2166dad4c5f8c0391d')
+            getPaperInfo(passPaperInfo)
+        }
+        const getPaperInfo = async(paperInfo) => {
+            console.log('paperInfo: ' + paperInfo.paperId);
+            let paperId = paperInfo;
+            console.log(paperId.paperId);
+            // get data based on paperId
+            const response = await fetch(`https://api.semanticscholar.org/graph/v1/paper/${paperId}?fields=url,title,year,tldr,publicationDate,journal,externalIds,abstract`, {
+                method: "GET",
+                headers: {
+                "Content-Type": "application/json",
+                "Access-Control-Allow-Origin": "http://127.0.0.1:5500/"
+                },
+            })
+            // store paper data
+            const data = await response.json()
+            console.log(data);
+        }
+        // getPaperInfo('9b8e06f870d5077c977d4a2166dad4c5f8c0391d')
         // getPaperIds('Senescent cells: a therapeutic target for cardiovascular disease') 
 
 
